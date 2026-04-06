@@ -3,11 +3,16 @@
 This is a collection of examples using the GeoND neural network library.
 
 ## Version 1.1
-Comming soon.
+Coming soon.
 
 ## Version 1.0
 ### geondpt
 - [Paraboloid neuron layer on CIFAR10](https://github.com/GeoND-tech/pytorch-cifar-paraboloid).
+
+## Performance
+
+The performance of both the licensed and the free version of the latest version (currently 1.1) can be measured by running [this python script}(https://github.com/GeoND-tech/GeoND-examples/blob/main/performance/performance.py). The output of the script in our system is:
+![Version 1.1 performance](performance/version1.1.png)
 
 ## Licence TL;DR
 
