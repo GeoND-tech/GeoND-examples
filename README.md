@@ -11,7 +11,7 @@ Coming soon.
 
 ## Performance
 
-The performance of both the licensed and the free version of the latest version (currently 1.1) can be measured by running [this python script](https://github.com/GeoND-tech/GeoND-examples/blob/main/performance/performance.py). The output of the script in our system is:
+The performance of both the licensed and the free libraries (current version 1.1) can be measured by running [this python script](https://github.com/GeoND-tech/GeoND-examples/blob/main/performance/performance.py). The output of the script in our system is:
 ![Version 1.1 performance](performance/version1.1.png)
 
 ## Licence TL;DR
