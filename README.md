@@ -3,6 +3,7 @@
 This is a collection of examples using the GeoND neural network library.
 
 ## Version 1.1
+### geondpt
 - [Paraboloid neuron layers on CIFAR10](https://github.com/GeoND-tech/GeoNDv1.1-CIFAR10)
 
 ## Version 1.0
