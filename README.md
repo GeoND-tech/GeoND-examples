@@ -1,6 +1,6 @@
 # GeoND neural network library examples.
 
-This is a collection of examples using the GeoND neural network library.
+This is a collection of examples using the GeoND neural network library. If you are interested in trying out the library on your own datasets, please refer to the ["How to use"](https://geond.tech/geond-docs/) section of the documentation.
 
 ## Version 1.1
 ### geondpt
