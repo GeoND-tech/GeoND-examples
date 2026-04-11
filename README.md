@@ -1,15 +1,19 @@
 # GeoND neural network library examples.
 
-This is a collection of examples using the GeoND neural network library. If you are interested in trying out the library on your own datasets, please refer to the ["How to use"](https://geond.tech/geond-docs/) section of the documentation. You can find download instructions here: [https://geond.tech/download/](https://geond.tech/download/).
+This is a collection of examples using the [GeoND](https://geond.tech/) neural network library. If you are interested in trying out the library on your own datasets, please refer to the ["How to use"](https://geond.tech/geond-docs/) section of the documentation. You can find download instructions here: [https://geond.tech/download/](https://geond.tech/download/).
 
 ## Version 1.1
-### geondpt
+### geondpt for PyTorch
 - [Paraboloid neuron layers on CIFAR100](https://github.com/GeoND-tech/GeoNDv1.1-CIFAR100)
 - [Paraboloid neuron layers on CIFAR10](https://github.com/GeoND-tech/GeoNDv1.1-CIFAR10)
 
+### geondtf for TensorFlow (not available yet)
+
 ## Version 1.0
-### geondpt
+### geondpt for PyTorch
 - [Paraboloid neuron layers on CIFAR10](https://github.com/GeoND-tech/pytorch-cifar-paraboloid)
+
+### geondtf for TensorFlow (not available yet)
 
 ## Performance
 
