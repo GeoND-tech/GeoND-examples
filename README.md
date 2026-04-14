@@ -1,6 +1,6 @@
 # GeoND neural network library examples.
 
-This is a collection of examples using the [GeoND](https://geond.tech/) neural network library. If you are interested in trying out the library on your own datasets, please refer to the ["How to use"](https://geond.tech/geond-docs/) section of the documentation. You can find download instructions here: [https://geond.tech/download/](https://geond.tech/download/).
+This is a collection of examples using the [GeoND](https://geond.tech/) neural network library. The examples involve taking an existing repository and then using paraboloid neuron layers to either improve the results and/or make a smaller and faster model. If you are interested in trying out the library on your own datasets, please refer to the ["How to use"](https://geond.tech/geond-docs/) section of the documentation. You can find download instructions here: [https://geond.tech/download/](https://geond.tech/download/).
 
 ## Version 1.1
 ### geondpt for PyTorch
