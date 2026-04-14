@@ -6,6 +6,7 @@ This is a collection of examples using the [GeoND](https://geond.tech/) neural n
 ### geondpt for PyTorch
 - [Paraboloid neuron layers on CIFAR100](https://github.com/GeoND-tech/GeoNDv1.1-CIFAR100)
 - [Paraboloid neuron layers on CIFAR10](https://github.com/GeoND-tech/GeoNDv1.1-CIFAR10)
+- [Paraboloid neuron layers on TinyStories](https://github.com/GeoND-tech/GeoNDv1.1-TinyStories)
 
 ### geondtf for TensorFlow (not available yet)
 
