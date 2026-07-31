@@ -2,6 +2,10 @@
 
 This is a collection of examples using the [GeoND](https://geond.tech/) neural network library. The examples involve taking an existing repository and then using paraboloid neuron layers to either improve the results and/or make a smaller and faster model. If you are interested in trying out the library on your own datasets, please refer to the ["How to use"](https://geond.tech/geond-docs/) section of the documentation. You can find download instructions here: [https://geond.tech/download/](https://geond.tech/download/).
 
+## Version 1.2
+### geondpt for PyTorch
+- [Paraboloid neuron layers on TinyStories](https://github.com/GeoND-tech/GeoNDv1.2-TinyStories)
+
 ## Version 1.1
 ### geondpt for PyTorch
 - [Paraboloid neuron layers on CIFAR100](https://github.com/GeoND-tech/GeoNDv1.1-CIFAR100)
