@@ -22,7 +22,7 @@ This is a collection of examples using the [GeoND](https://geond.tech/) neural n
 ## Performance
 
 The performance of both the licensed and the free libraries (current version 1.1) can be measured by running [this python script](https://github.com/GeoND-tech/GeoND-examples/blob/main/performance/performance.py). The output of the script in our system is:
-![Version 1.1 performance](performance/version1.1.png)
+![Version 1.1 performance](performance/version1.2.png)
 
 ## Licence TL;DR
 
